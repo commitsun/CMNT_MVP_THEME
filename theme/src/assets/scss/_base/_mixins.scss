@@ -1,0 +1,13 @@
+// Mixins
+// Font Mixins
+@mixin body-font {
+    font-family: $font;
+}
+
+// Background Cover Mixin
+@mixin background-cover {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
