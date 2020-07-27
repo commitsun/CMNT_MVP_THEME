@@ -12,8 +12,6 @@
         'views/image_library.xml',
         'views/snippets_options.xml',
         'views/snippets.xml',
+        'data/home.xml',
     ],
-    'images': [],
-    'license': 'MIT',
-    'live_test_url': 'https://www.zeleiro.gal',
 }
