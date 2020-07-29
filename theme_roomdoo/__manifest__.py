@@ -5,7 +5,7 @@
     'summary': 'Roomdoo Theme',
     'sequence': 120,
     'version': '1.1',
-    'depends': ['theme_common', ],
+    'depends': ['theme_default', ],
     'data': [
         'views/assets.xml',
         'views/image_content.xml',
