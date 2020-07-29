@@ -1,7 +1,7 @@
 {
     'name': 'Roomdoo Theme',
     'description': 'Roomdoo Theme',
-    'category': 'Theme/Services',
+    'category': 'Theme',
     'summary': 'Roomdoo Theme',
     'sequence': 120,
     'version': '1.1',
