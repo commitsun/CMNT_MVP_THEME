@@ -1,5 +1,11 @@
-// Restore text-success color for website_sale "wizard" (checkout breadcrumb)
-// Hopefully remove this with improvements of saas-17
+.static-top{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.nav-link{
+    margin: 0.5rem;
+    font-weight: 600;
+}
 .oe_website_sale .wizard .text-success {
     color: #5CB85C;
 }
