@@ -1,17 +1,18 @@
 {
     'name': 'Roomdoo Theme',
     'description': 'Roomdoo Theme',
-    'category': 'Theme/Services',
-    'summary': 'Roomdoo Theme',
-    'sequence': 120,
-    'version': '1.1',
-    'depends': ['theme_common', ],
+    'category': 'Theme',
+    'sequence': 1000,
+    'version': '1.2',
+    'depends': ['theme_default', ],
     'data': [
         'views/assets.xml',
         'views/image_content.xml',
-        'views/image_library.xml',
-        'views/snippets_options.xml',
-        'views/snippets.xml',
         'data/home.xml',
     ],
+    'images': [
+        'static/description/cover.png',
+        'static/description/screenshot.jpg',
+    ],
+    'application': False,
 }
