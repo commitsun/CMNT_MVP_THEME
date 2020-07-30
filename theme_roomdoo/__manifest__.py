@@ -8,10 +8,13 @@
     'data': [
         'views/assets.xml',
         'views/image_content.xml',
-        'data/home.xml',
+    ],
+    'demo': [
+        'data/homepage_data.xml',
     ],
     'images': [
         'static/description/cover.png',
+        'static/description/icon.png',
         'static/description/screenshot.jpg',
     ],
     'application': False,
