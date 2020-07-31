@@ -7,7 +7,6 @@
     'version': '1.3',
     'depends': ['theme_common', 'website_animate'],
     'data': [
-        'views/s_cover_roomdoo.xml',
         'views/assets.xml',
         'views/image_content.xml',
         'views/image_library.xml',

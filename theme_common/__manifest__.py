@@ -11,6 +11,8 @@
         'views/assets.xml',
         'views/theme_common_templates.xml',
         'views/s_google_map.xml',
+        # Roomdoo
+        'views/s_cover_roomdoo.xml',
         # CLEAN
         'views/s_big_image.xml',
         'views/s_big_image_parallax.xml',
