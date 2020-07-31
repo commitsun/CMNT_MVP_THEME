@@ -1,6 +1,6 @@
 {
-    'name': 'Roomdoo Theme',
-    'description': 'Roomdoo Theme',
+    'name': 'Tema Roomdoo',
+    'description': 'Gestión hotelera',
     'category': 'Theme',
     'summary': 'Hotel, Travel, Company',
     'sequence': 120,
