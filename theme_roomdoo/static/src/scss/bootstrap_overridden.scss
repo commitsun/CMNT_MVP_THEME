@@ -39,7 +39,7 @@ $font-weight-bold:            600 !default;
 $h1-font-size:                $o-theme-font-size-base * (41 / 16) !default;
 $h2-font-size:                $o-theme-font-size-base * (34 / 16) !default;
 $h3-font-size:                $o-theme-font-size-base * (28 / 16) !default;
-$h4-font-size:                $o-theprimary_variablesme-font-size-base * (20 / 16) !default;
+$h4-font-size:                $o-theme-font-size-base * (20 / 16) !default;
 $h5-font-size:                $o-theme-font-size-base !default;
 $h6-font-size:                $o-theme-font-size-base * (14 / 16) !default;
 
@@ -132,3 +132,8 @@ $pagination-active-bg:              palette-theme-color('primary') !default;
 $progress-box-shadow:               0 !default;
 $progress-bar-bg:                   palette-theme-color("gamma") !default;
 
+// Carousel
+
+$carousel-indicator-active-bg:      #808080 !default;
+
+$carousel-caption-color:            #808080 !default;

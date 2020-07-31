@@ -30,3 +30,17 @@ msgstr ""
 msgid "Theme Utils"
 msgstr ""
 
+#. module: theme_roomdoo
+#: model_terms:theme.ir.ui.view,arch:theme_roomdoo.s_cover_roomdoo
+msgid "Descubre le producto"
+msgstr ""
+
+#. module: theme_roomdoo
+#: model_terms:theme.ir.ui.view,arch:theme_roomdoo.s_cover_roomdoo
+msgid "Dolorem totam atque pariatur ut ut eveniet modi. Consequuntur quidem explicabo sit doloribus culpa sit. Maiores quaerat et aperiam deserunt sapiente aut. Non dolor cum aut corrupti. Id debitis quisquam fugiat."
+msgstr ""
+
+#. module: theme_roomdoo
+#: model_terms:theme.ir.ui.view,arch:theme_roomdoo.s_cover_roomdoo
+msgid "Gestion de hoteles"
+msgstr ""

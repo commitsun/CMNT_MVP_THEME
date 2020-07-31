@@ -2,14 +2,17 @@
 # This file contains the translation of the following modules:
 # * theme_roomdoo
 #
+# Translators:
+# Martin Trigaux, 2019
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 13.0\n"
+"Project-Id-Version: Odoo Server 12.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-24 09:03+0000\n"
-"PO-Revision-Date: 2019-06-24 11:21+0000\n"
-"Last-Translator: Manuel Alejandro Núñez Liz, 2020\n"
-"Language-Team: Spanish\n"
+"POT-Creation-Date: 2019-04-24 09:03+0000\n"
+"PO-Revision-Date: 2019-04-24 11:21+0000\n"
+"Last-Translator: Martin Trigaux, 2019\n"
+"Language-Team: Spanish (https://www.transifex.com/odoo/teams/41243/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -29,4 +32,4 @@ msgstr "Ninguno"
 #. module: theme_roomdoo
 #: model:ir.model,name:theme_roomdoo.model_theme_utils
 msgid "Theme Utils"
-msgstr "Opciones tema"
+msgstr ""

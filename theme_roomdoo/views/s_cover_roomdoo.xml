@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template name="Cover Roomdoo" id="s_cover_roomdoo">
+        <section class="s_cover_roomdoo">
+            <div class="container">
+                <div class="row mb32 mt32">
+                    <div class="col-lg-8">
+                        <h1>Gestion de hoteles</h1>
+                        <p>Dolorem totam atque pariatur ut ut eveniet modi. Consequuntur quidem explicabo sit doloribus culpa sit. Maiores quaerat et aperiam deserunt sapiente aut. Non dolor cum aut corrupti. Id debitis quisquam fugiat.</p>
+                        <a href="#">Descubre le producto</a>
+                    </div>
+                    <div class="col-lg-4 text-center">
+                        <img src="/web/image/theme_roomdoo.image_content_19" alt="#" class="img img-fluid"/>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+    </template>
+</odoo>
