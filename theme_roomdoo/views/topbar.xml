@@ -1,0 +1,9 @@
+<odoo>
+    <template id="frontend_layout_topbar" name="TopBar Edit" inherit_id="portal.frontend_layout">
+        <xpath expr="//ul[@id='top_menu']" position="attributes">
+            <attribute name="class">
+                nav navbar-nav text-right space_navbar
+            </attribute>
+        </xpath>
+    </template>
+</odoo>
