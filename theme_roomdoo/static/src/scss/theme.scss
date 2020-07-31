@@ -27,14 +27,6 @@
     }
 }
 
-
-// Backgrounds Gradients
-@include o-theme-chd-bg-gradient-classes();
-@include o-theme-chd-bg-option-menu-styles();
-
-// Custom Padding
-@include o-theme-chd-padding-l-r-classes();
-
 // Price List
 .price {
     font-size: 50px;
@@ -42,7 +34,8 @@
 
 // popover
 .popover, .popover-title {
-    color: #555;
+    color: palette-theme-color('secondary');
+
 }
 
 // hr
@@ -60,10 +53,9 @@ hr {
 
 footer {
     h1, h2, h3, h4, h5, h6 {
-        color: gray('200');
+        color: palette-theme-color('secondary');
         text-transform: uppercase;
     }
-    @include o-theme-chd-footer-styles();
 }
 
 @if $o-theme-layout == 'boxed' {
