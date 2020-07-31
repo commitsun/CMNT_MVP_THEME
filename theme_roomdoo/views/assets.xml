@@ -29,7 +29,7 @@
             <link rel="stylesheet" type="text/scss" href="/theme_common/static/src/scss/s_team_profiles.scss"/>
             <link rel="stylesheet" type="text/scss" href="/theme_common/static/src/scss/s_text_highlight.scss"/>
             <link rel="stylesheet" type="text/scss" href="/theme_common/static/src/scss/s_two_columns.scss"/>
-            <link rel="stylesheet" type="text/scss" href="/theme_common/static/src/scss/s_cover_roomdoo.scss"/>
+            <link rel="stylesheet" type="text/scss" href="/theme_roomdoo/static/src/scss/s_cover_roomdoo.scss"/>
         </xpath>
     </template>
 

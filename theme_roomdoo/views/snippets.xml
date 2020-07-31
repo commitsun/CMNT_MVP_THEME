@@ -2,7 +2,7 @@
 <odoo>
     <template id="snippet_selection" inherit_id="website.snippets">
         <xpath expr="//div[@id='snippet_structure']/div[hasclass('o_panel_body')]/t[@t-snippet='website.s_cover']" position="after">
-            <t t-snippet="theme_common.s_cover_roomdoo" t-thumbnail="/theme_roomdoo/static/src/img/snippets/s_cover_roomdoo.png"/>
+            <t t-snippet="theme_roomdoo.s_cover_roomdoo" t-thumbnail="/theme_roomdoo/static/src/img/snippets/s_cover_roomdoo.png"/>
             <t t-snippet="theme_common.s_color_blocks_2" t-thumbnail="/theme_common/static/src/img/snippets/s_color_block.png"/>
             <t t-snippet="theme_common.s_color_blocks_4" t-thumbnail="/theme_common/static/src/img/snippets/s_color_block.png"/>
             <t t-snippet="theme_common.s_column" t-thumbnail="/theme_common/static/src/img/snippets/s_column.png"/>

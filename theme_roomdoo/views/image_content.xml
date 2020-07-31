@@ -98,9 +98,9 @@
         <field name="url">/theme_roomdoo/static/src/img/content/image_content_18.png</field>
     </record>
     <record id="image_content_19" model="theme.ir.attachment">
-        <field name="key">theme_common.image_content_19</field>
-        <field name="name">theme_common.image_content_19</field>
-        <field name="url">/theme_roomdoo/static/src/img/content/image_content_19.png</field>
+        <field name="key">theme_roomdoo.image_content_19</field>
+        <field name="name">theme_roomdoo.image_content_19</field>
+        <field name="url">/theme_roomdoo/static/src/img/content/image_content_19.jpg</field>
     </record>
     <!-- Website Builder Custom Images -->
     <record id="s_cover_default_image" model="theme.ir.attachment">
