@@ -10,6 +10,7 @@
         'views/s_cover_roomdoo.xml',
         'views/assets.xml',
         'views/image_content.xml',
+        'views/image_library.xml',
         'views/snippets_options.xml',
         'views/snippets.xml',
     ],
