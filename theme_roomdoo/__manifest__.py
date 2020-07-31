@@ -14,8 +14,8 @@
         'views/snippets.xml',
     ],
     'images': [
-        'static/description/cover.jpg',
-        'static/description/screenshot.jpg',
+        'static/description/roomdoo_cover.jpg',
+        'static/description/roomdoo_screenshot.jpg',
     ],
     'license': 'LGPL-3',
 }
