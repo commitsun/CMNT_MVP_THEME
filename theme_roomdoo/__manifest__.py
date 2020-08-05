@@ -16,6 +16,7 @@
         'views/snippets.xml',
         'views/topbar.xml',
         'views/footer.xml',
+        'views/home.xml',
     ],
     'images': [
         'static/description/roomdoo_cover.jpg',
