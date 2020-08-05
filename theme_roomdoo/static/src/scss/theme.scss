@@ -48,6 +48,13 @@ hr {
 .navbar-light .navbar-nav .nav-link.active {
     color: theme-color('primary');
 }
+.navbar .nav-item > .nav-link.active {
+    color: theme-color('primary') !important;
+    font-weight: bolder;
+}
+.navbar .nav-item > .nav-link {
+    font-weight: 400;
+}
 
 .space_navbar {
     margin: 1rem 0rem 1rem 2rem;
