@@ -1,6 +1,6 @@
 <odoo>
     <template id="frontend_layout_topbar" name="TopBar Edit" inherit_id="portal.frontend_layout">
-        <xpath expr="//div[@id='top_menu_collapse']" position="inside">
+        <xpath expr="//ul[@id='top_menu']" position="before">
             <ul class="nav navbar-nav text-right space_navbar" id="top_menu_ini">
             </ul> 
         </xpath>

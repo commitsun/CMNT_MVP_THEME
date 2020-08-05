@@ -1,29 +1,29 @@
 <odoo>
     <template id="roomdoo_home" name="Roomdoo Home" inherit_id="website.homepage">
         <xpath expr="//div[@id='wrap']" position="inside">
-            <section class="s_cover_roomdoo pb256 pt184" data-name="Cover Roomdoo" style="">
+            
+            <section class="s_cover_roomdoo pb256 pt184 oe_structure oe_empty" data-name="Cover Roomdoo">
                 <div class="container">
                 <div class="row mb166 mt78">
                     <div class="col-lg-12">
-                    <h1 class="lx_hero__title">
-                        <font style="font-size: 78px;font-weight:700;">Es hora de cambiar de<br/> compañía eléctrica</font>
-                    </h1>
-                    <div class="lx_hero__description" style="max-width:50%">
-                        <font style="font-size: 24px;">Disfruta la luz a precio de coste más una pequeña cuota mensual de 4,90€, que es </font>
-                        <font style="font-size: 24px;">nuestro único margen. Así de claro.</font>
-                    </div>
-                    <br/>
-                    <br/>
-                    <font style="font-size: 24px;font-weight:700;">&amp;gt; </font>
-                    <a href="#" style="padding-top:1rem; border-bottom: thick solid; font-size: 24px">
-                        <font style="color:black; font-weight:700;">Descúbrelo</font>
-                    </a>
-                    <img class="img-fluid o_we_custom_image" src="/web/image/4094/lucera-compania-electrica-honesta.png" alt="Gestion de hoteles" data-original-title="" title="" aria-describedby="tooltip494426" style="margin-top:-70%; margin-left: 15%; z-index:-1;position:absolute;transform: scale(1.5);"/>
+                        <h1 class="lx_hero__title">
+                            Es hora de cambiar de<br/> compañía eléctrica
+                        </h1>
+                        <div class="lx_hero__description text-cover" >
+                            Disfruta la luz a precio de coste más una pequeña cuota mensual de 4,90€, que es nuestro único margen. Así de claro.
+                        </div>
+                        <br/>
+                        <br/>
+                        <font style="font-size: 24px;font-weight:700;">&amp;gt; </font>
+                        <a href="#">
+                            <font style="color:black; font-weight:700;">Descúbrelo</font>
+                        </a>
+                        <img class="img-cover img-fluid o_we_custom_image oe_structure oe_empty" src="/theme_roomdoo/static/src/img/demo/lucera-compania-electrica-honesta.png" alt="Gestion de hoteles" data-original-title="Gestion de hoteles" title="Gestion de hoteles" />
                     </div>
                 </div>
                 </div>
             </section>
-            <section class="s_text_image pt256 pb96" data-name="Text - Image" style="">
+            <section class="s_text_image pt256 pb96 oe_structure oe_empty" data-name="Text - Image" style="">
                 <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 pb16 pt128">
@@ -43,16 +43,16 @@
                     </div>
                     </div>
                     <div class="col-lg-6 pb16 pt160">
-                    <img src="/web/image/4095/lucera-chica-mirada.png" class="img img-fluid mx-auto" alt="Odoo • Text and Image" data-original-title="" title="" aria-describedby="tooltip668957"/>
+                    <img src="/theme_roomdoo/static/src/img/demo/lucera-chica-mirada.png" class="img img-fluid mx-auto" alt="Odoo • Text and Image" data-original-title="" title="" aria-describedby="tooltip668957"/>
                     </div>
                 </div>
                 </div>
             </section>
-            <section class="s_text_image pt32 pb32" data-name="Image - Text">
+            <section class="s_text_image pt32 pb32 oe_structure oe_empty" data-name="Image - Text">
                 <div class="container">
                 <div class="row align-items-center">
                     <div class="pt88 col-lg-5 offset-lg-1 pb80">
-                    <img src="/web/image/4096/lucera-calculadora-hucha-ahorro.png" class="img img-fluid mx-auto" alt="Odoo • Image and Text" data-original-title="" title="" aria-describedby="tooltip148260"/>
+                    <img src="/theme_roomdoo/static/src/img/demo/lucera-calculadora-hucha-ahorro.png" class="img img-fluid mx-auto" alt="Odoo • Image and Text" data-original-title="" title="" aria-describedby="tooltip148260"/>
                     </div>
                     <div class="pb72 offset-lg-1 col-lg-4 pt0">
                     <p class="lx_argument__tip" style="font-size: 24px;">Transparencia</p>
@@ -70,7 +70,7 @@
                 </div>
                 </div>
             </section>
-            <section class="s_two_columns pb152" data-name="2 Columns" style="">
+            <section class="s_two_columns pb152 oe_structure oe_empty" data-name="2 Columns" >
                 <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center pb80 pt16" data-name="Title">
