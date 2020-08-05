@@ -4,12 +4,20 @@
             <ul class="nav navbar-nav text-right space_navbar" id="top_menu_ini">
             </ul> 
         </xpath>
-        
+        <xpath expr="//header//ul[@id='top_menu_ini']" position="inside">
+            <t t-foreach="website.menu_id.child_id" t-as="submenu">
+                <t t-call="website.submenu">
+                    <t t-set="item_class" t-value="'nav-item'"/>
+                    <t t-set="link_class" t-value="'nav-link'"/>
+                </t>
+            </t>
+        </xpath>
         <xpath expr="//ul[@id='top_menu']" position="attributes">
             <attribute name="class">
                 nav navbar-nav ml-auto text-right space_navbar
             </attribute>
         </xpath>
-        
+        <xpath expr="//header//ul[@id='top_menu']/t[@t-foreach='website.menu_id.child_id']" position="replace">
+        </xpath>
     </template>
 </odoo>
