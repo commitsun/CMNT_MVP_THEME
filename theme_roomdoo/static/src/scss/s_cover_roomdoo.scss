@@ -1,10 +1,46 @@
 #wrapwrap .s_cover_roomdoo {
     h1 {
         padding-bottom: 42px;
+        font-size: 78px;
+        font-weight:700;
     }
+    .text-cover {
+        max-width:50%;
+        font-size: 24px;
+    }
+    .img-cover {
+        margin-top: -70%;
+        margin-left: 15%;
+        z-index: -1;
+        position: absolute;
+        transform: scale(1.5);
+    }
+    a {
+        padding-top:1rem; 
+        border-bottom: thick solid;
+        font-size: 24px;
+    }
+}
+@media screen and (max-width: 768px) {
 
-    .row div:nth-child(2) img {
-        margin-bottom: 20px;
-        width: 100%;
+    #wrapwrap .s_cover_roomdoo {
+        h1 {
+            padding-bottom: 24px;
+            font-size: 24px;
+            font-weight:700;
+        }
+        .text-cover {
+            max-width:50%;
+            font-size: 14px;
+        }
+        .img-cover {
+            display: none;
+        }
+        a {
+            padding-top:1rem; 
+            border-bottom: thick solid;
+            font-size: 24px;
+        }
     }
+    
 }

@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <template name="Cover Roomdoo" id="s_cover_roomdoo">
-        <section class="s_cover_roomdoo pt80 pb80">
-            <div class="container">
-                <div class="row mb32 mt32">
-                    <div class="col-lg-8">
-                        <h1>Gestión de hoteles</h1>
-                        <p>Dolorem totam atque pariatur ut ut eveniet modi. Consequuntur quidem explicabo sit doloribus culpa sit. Maiores quaerat et aperiam deserunt sapiente aut. Non dolor cum aut corrupti. Id debitis quisquam fugiat.</p>
-                        <a href="#">Descubre le producto</a>
+        <section class="s_cover_roomdoo pb256 pt184" data-name="Cover Roomdoo" style="">
+        <div class="container">
+            <div class="row mb166 mt78">
+                <div class="col-lg-12">
+                    <h1 class="lx_hero__title">
+                        Es hora de cambiar de<br/> compañía eléctrica
+                    </h1>
+                    <div class="lx_hero__description text-cover" >
+                        Disfruta la luz a precio de coste más una pequeña cuota mensual de 4,90€, que es nuestro único margen. Así de claro.
                     </div>
-                    <div class="col-lg-4 text-center">
-                        <img src="/web/image/theme_roomdoo.image_content_19" alt="Gestion de hoteles" class="img img-fluid"/>
-
-                    </div>
+                    <br/>
+                    <br/>
+                    <font style="font-size: 24px;font-weight:700;">&amp;gt; </font>
+                    <a href="#">
+                        <font style="color:black; font-weight:700;">Descúbrelo</font>
+                    </a>
+                    <img class="img-cover img-fluid o_we_custom_image" src="/web/image/theme_roomdoo.image_content_19" alt="Gestion de hoteles" data-original-title="" title="Gestion de hoteles" aria-describedby="tooltip494426"/>
                 </div>
             </div>
-        </section>
+        </div>
+      </section>
     </template>
 </odoo>

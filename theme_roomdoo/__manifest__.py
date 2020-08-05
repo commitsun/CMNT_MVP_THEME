@@ -4,7 +4,7 @@
     'category': 'Theme',
     'summary': 'Hotel, Travel, Company',
     'sequence': 120,
-    'version': '1.3',
+    'version': '1.4.1',
     'depends': ['theme_common', 'website_animate'],
     'data': [
         # Roomdoo

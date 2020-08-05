@@ -1,0 +1,105 @@
+<t name="Home" priority="29" t-name="website.homepage">
+  <t t-call="website.layout">
+    <t t-set="pageName" t-value="'homepage'"/>
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_cover_roomdoo pb256 pt184" data-name="Cover Roomdoo" style="">
+        <div class="container">
+          <div class="row mb166 mt78">
+            <div class="col-lg-12">
+              <h1 class="lx_hero__title">
+                <font style="font-size: 78px;font-weight:700;">Es hora de cambiar de<br/> compañía eléctrica</font>
+              </h1>
+              <div class="lx_hero__description" style="max-width:50%">
+                <font style="font-size: 24px;">Disfruta la luz a precio de coste más una pequeña cuota mensual de 4,90€, que es </font>
+                <font style="font-size: 24px;">nuestro único margen. Así de claro.</font>
+              </div>
+              <br/>
+              <br/>
+              <font style="font-size: 24px;font-weight:700;">&amp;gt; </font>
+              <a href="#" style="padding-top:1rem; border-bottom: thick solid; font-size: 24px">
+                <font style="color:black; font-weight:700;">Descúbrelo</font>
+              </a>
+              <img class="img-fluid o_we_custom_image" src="/web/image/4094/lucera-compania-electrica-honesta.png" alt="Gestion de hoteles" data-original-title="" title="" aria-describedby="tooltip494426" style="margin-top:-70%; margin-left: 15%; z-index:-1;position:absolute;transform: scale(1.5);"/>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_image pt256 pb96" data-name="Text - Image" style="">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-lg-6 pb16 pt128">
+              <p class="lx_argument__tip" style="font-size: 24px;">Con valentía</p>
+              <h2 class="lx_argument__title" style="font-size: 62px;font-weight:700;">La luz es luz,<br class="d-none d-lg-block"/> sin más cuentos</h2>
+              <p>
+                <br/>
+              </p>
+              <div class="lx_argument__description" style="font-size: 24px;">
+                <font style="font-size: 24px;">Ser la primera compañía eléctrica en poner orden al fregao del sector energético es de valientes, pero hemos encontrado la manera.</font>
+              </div>
+              <div class="s_btn text-left pt16 pb16" data-name="Buttons">
+                <font style="font-size: 24px;font-weight:700;">&amp;gt; </font>
+                <a href="#" style="padding-top:1rem; border-bottom: thick solid; font-size: 24px">
+                  <font style="color:black; font-weight:700;">Learn more</font>
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-6 pb16 pt160">
+              <img src="/web/image/4095/lucera-chica-mirada.png" class="img img-fluid mx-auto" alt="Odoo • Text and Image" data-original-title="" title="" aria-describedby="tooltip668957"/>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_image pt32 pb32" data-name="Image - Text">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="pb96 pt88 col-lg-5 offset-lg-1">
+              <img src="/web/image/4096/lucera-calculadora-hucha-ahorro.png" class="img img-fluid mx-auto" alt="Odoo • Image and Text" data-original-title="" title="" aria-describedby="tooltip148260"/>
+            </div>
+            <div class="pb72 offset-lg-1 col-lg-4 pt0">
+              <p class="lx_argument__tip" style="font-size: 24px;">Transparencia</p>
+              <h2 class="lx_argument__title" style="font-weight:700;">Calcula cuánto <br class="d-none d-lg-block"/> ahorrarías</h2>
+              <div class="lx_argument__description">
+                <font style="font-size: 24px;">Descubre cuánto puedes ahorrar en tu factura de la luz en tan sólo unos minutos. Recuerda tener a mano una factura de luz reciente para hacerlo más fácil.</font>
+              </div>
+              <div class="s_btn text-left pt16 pb16" data-name="Button">
+                <font style="font-size: 24px;font-weight:700;">&amp;gt; </font>
+                <a href="#" style="padding-top:1rem; border-bottom: thick solid; font-size: 24px">
+                  <font style="color:black; font-weight:700;">Learn more</font>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_two_columns pb152" data-name="2 Columns">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 text-center pb64" data-name="Title">
+              <h2 class="lx-opinions-heading text-center" style="font-weight:700;color: #4bbff8;">
+                <font style="font-size: 48px;">Miles de personas se han unido</font>
+                <br class="d-none d-lg-block"/>
+                <font style="font-size: 48px;">&amp;nbsp;a Lucera, por algo será.</font>
+              </h2>
+            </div>
+            <div class="col-lg-6 mb32 mt32">
+              <h2 class="lx_contract__title" style="text-align: center;">
+                <font style="font-size: 48px;font-weight:700;">Por qué Lucera</font>
+              </h2>
+              <div class="lx_contract__description" style="text-align: center;">
+                <font style="font-size: 24px;">Descubre cuánto puedes ahorrar en tu factura en tan sólo unos minutos.</font>
+              </div>
+            </div>
+            <div class="col-lg-6 mb32 mt32">
+              <h2 class="lx_contract__title" style="text-align: center;">
+                <font style="font-size: 36px;font-weight:700;">Empieza a ahorrar</font>
+              </h2>
+              <div class="lx_contract__description" style="text-align: center;">
+                <font style="font-size: 24px;">Pásate al lado verde de la energía y hagamos el mundo un poquito mejor.</font>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
