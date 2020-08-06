@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <template name="Cover Roomdoo" id="s_cover_roomdoo">
-        <section class="s_cover_roomdoo pb256 pt184" data-name="Cover Roomdoo" style="">
+        <section class="img_background s_cover_roomdoo pb256 pt184" data-name="Cover Roomdoo" style="background-image: url('/theme_roomdoo/static/src/img/demo/lucera-compania-electrica-honesta.png');">
         <div class="container">
             <div class="row mb166 mt78">
                 <div class="col-lg-12">
@@ -17,7 +17,6 @@
                     <a href="#">
                         <font style="color:black; font-weight:700;">Descúbrelo</font>
                     </a>
-                    <img class="img-cover img-fluid o_we_custom_image" src="/web/image/theme_roomdoo.image_content_19" alt="Gestion de hoteles" data-original-title="" title="Gestion de hoteles" />
                 </div>
             </div>
         </div>
