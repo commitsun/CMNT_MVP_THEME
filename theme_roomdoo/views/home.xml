@@ -2,7 +2,7 @@
     <template id="roomdoo_home" name="Roomdoo Home" inherit_id="website.homepage">
         <xpath expr="//div[@id='wrap']" position="inside">
             
-            <section class="s_cover_roomdoo pb256 pt184 oe_structure oe_empty" data-name="Cover Roomdoo">
+            <section class="img_background s_cover_roomdoo pb256 pt184 oe_structure oe_empty " data-name="Cover Roomdoo" style="background-image: url('/theme_roomdoo/static/src/img/demo/lucera-compania-electrica-honesta.png');">
                 <div class="container">
                 <div class="row mb166 mt78">
                     <div class="col-lg-12">
@@ -18,12 +18,11 @@
                         <a href="#">
                             <font style="color:black; font-weight:700;">Descúbrelo</font>
                         </a>
-                        <img class="img-cover img-fluid o_we_custom_image oe_structure oe_empty" src="/theme_roomdoo/static/src/img/demo/lucera-compania-electrica-honesta.png" alt="Gestion de hoteles" data-original-title="Gestion de hoteles" title="Gestion de hoteles" />
                     </div>
                 </div>
                 </div>
             </section>
-            <section class="s_text_image pt256 pb96 oe_structure oe_empty" data-name="Text - Image" style="">
+            <section class="s_text_image pt32 pb96 oe_structure oe_empty" data-name="Text - Image" style="">
                 <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 pb16 pt128">
